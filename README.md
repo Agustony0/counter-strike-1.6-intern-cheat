@@ -1,6 +1,6 @@
 # counter-strike-1.6-intern-cheat
 
-<h4>This intern is made demonstratively (not to be used on main accounts). It only works with bots.</h4><br>
+<h4>This intern is made demonstratively (not to be used on main accounts). It only works with bots and is very unstable.</h4><br>
 
 Feature: <br>
   -Infinite money <br>
