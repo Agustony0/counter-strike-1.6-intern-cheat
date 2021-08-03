@@ -6,10 +6,8 @@ Feature: <br>
   -Infinite money <br>
   -Infinite ammo <br>
   <br>
-  
   ![dap](https://user-images.githubusercontent.com/36111719/128072067-109f250f-5950-4b0d-be7b-84c5ec4a06d4.PNG)
  
-
 Require: <br>
   -Visual Studio 2019 <br>
   -Cheat Engine (64-bit) <br>
